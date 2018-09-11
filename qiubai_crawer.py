@@ -1,4 +1,4 @@
-import requests
+import requests     #发送网址，构建URL
 from bs4 import BeautifulSoup
 
 
